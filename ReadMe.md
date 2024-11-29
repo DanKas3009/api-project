@@ -18,3 +18,7 @@
     As you can notice in the config file, I created the API app that serves this one. It is build on top of a mysql database called #'classicmodels'#, that we worked one in the Advanced Database class through this semester.
 
     This project was particularly interesting because I learned a lot concerning python as a programming language (new syntax), about the framework: Django, rest_framework, fastapi, uvicorn and especially about APIs - how they work.
+
+    
+    The other project :
+    https://github.com/DanKas3009/db_django.git
